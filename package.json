@@ -1,0 +1,20 @@
+{
+  "name": "mdnbreakout",
+  "version": "1.0.0",
+  "description": "clone of mdn breakout game for learning purposes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfmlol/MDN-Breaker-Clone.git"
+  },
+  "author": "Mike M. Nguyen <tfm2lol@gmail.com> (http://example.ca/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tfmlol/MDN-Breaker-Clone/issues"
+  },
+  "homepage": "https://github.com/tfmlol/MDN-Breaker-Clone#readme"
+}

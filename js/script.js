@@ -36,8 +36,8 @@ var leftPressed = false;
 
 //Define Bricks
 var bricks = [];
-var brickRowCount = 3;
-var brickColumnCount = 5;
+var brickRowCount = 5;
+var brickColumnCount = 10;
 var brickWidth = 75;
 var brickHeight = 20;
 var brickPadding = 10;
